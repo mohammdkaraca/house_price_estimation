@@ -1,0 +1,50 @@
+================================================================================
+ISITMA TIPI ANALIZ RAPORU
+================================================================================
+
+Toplam Emlak Sayısı: 19978
+Analiz Tarihi: 2025-12-07 21:24
+
+ISITMA TIPI DAĞILIMI:
+----------------------------------------
+Diğer                          19978 emlak (100.0%)
+
+FIYAT ISTATISTIKLERI (Isıtma Tipine Göre):
+--------------------------------------------------------------------------------
+
+Diğer:
+  Sayı:           19978
+  Ortalama:       3,253,189 TL
+  Medyan:         2,300,000 TL
+  Minimum:        310,000 TL
+  Maksimum:      285,000,000 TL
+  Standart Sapma: 4,979,354 TL
+
+================================================================================
+ÖNEMLI BULGULAR:
+================================================================================
+
+1. En pahalı ısıtma tipi: Diğer
+   Ortalama fiyat: 3,253,189 TL
+
+2. En ekonomik ısıtma tipi: Diğer
+   Ortalama fiyat: 3,253,189 TL
+
+3. Fiyat farkı: %0.0
+
+4. En yaygın ısıtma tipi: Diğer
+   Piyasa payı: 100.0%
+
+================================================================================
+TAVSİYELER:
+================================================================================
+
+1. Yatırım açısından:
+   - Diğer sistemli evler premium segmenti temsil ediyor.
+   - Diğer daha ekonomik seçenekler sunuyor.
+
+2. Piyasa analizi:
+   - Piyasanın %100.0'i Diğer sistemlerini tercih ediyor.
+
+3. Metrekare başına fiyat:
+   - En yüksek m² fiyatı: Diğer

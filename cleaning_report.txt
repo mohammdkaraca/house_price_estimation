@@ -1,0 +1,13 @@
+DATA CLEANING REPORT
+============================================================
+
+FILE INFORMATION
+----------------------------------------
+Original file: home_price_original.csv
+Cleaned file: home_price_cleaned.csv
+Original rows: 20131
+Final rows: 20131
+Duplicates removed: 195
+
+NULL VALUE SUMMARY - BEFORE CLEANING
+----------------------------------------
