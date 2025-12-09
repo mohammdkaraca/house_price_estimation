@@ -10,7 +10,7 @@ import os
 plt.style.use('seaborn-v0_8-whitegrid')
 sns.set_palette("husl")
 
-def load_and_visualize_data(filename="home_price_original.csv"):
+def load_and_visualize_data(filename):
     """
     Load cleaned real estate data and create visualization graphs
     """
@@ -224,4 +224,4 @@ def load_and_visualize_data(filename="home_price_original.csv"):
 # Run the visualization
 if __name__ == "__main__":
     # You can change the filename if you saved it differently
-    df = load_and_visualize_data("home_price_original.csv")
+    df = load_and_visualize_data("home_price_cleaned_OHE.csv")
