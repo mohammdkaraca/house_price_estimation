@@ -13,7 +13,6 @@ from pydantic import BaseModel, Field
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 import warnings
-from fastapi.staticfiles import StaticFiles
 warnings.filterwarnings('ignore')
 
 # Non-interactive backend
@@ -467,7 +466,6 @@ def get_stats():
         }
     return {"error": "Dataset not found"}
 
-app.mount("/", StaticFiles(directory="frontend/dist", html=True), name="site")    
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="127.0.0.1", port=8000)
